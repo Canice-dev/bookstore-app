@@ -1,11 +1,5 @@
+# local env files
 .env
 
-.env.local
-
-# local env files
-.env*.local
-
-# dependencies
-node_modules
 # dependencies
 node_modules/
